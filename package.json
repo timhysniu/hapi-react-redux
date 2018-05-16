@@ -1,0 +1,14 @@
+{
+  "name": "unicorner",
+  "version": "0.1.0",
+  "dependencies": {
+    "hapi": "^17.4.0"
+  },
+  "scripts": {
+    "server": "node server.js",
+    "server-dev": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  }
+}
